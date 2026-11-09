@@ -10,7 +10,7 @@
 
 A three-page Power BI dashboard that tracks how a sports organisation's social audience grows and how well it engages across **Facebook, Instagram and TikTok**. It shows results against targets and against last year.
 
-This project was completed with **New Zealand Cricket** during the **2026 virtual internship**. I was the **UX/UI lead in a five-person team**, responsible for designing the interface and building the report.
+This project was completed with **New Zealand Cricket** during the **2026 virtual internship**, as part of a **five-person team**.
 
 ---
 
@@ -22,7 +22,6 @@ This project was completed with **New Zealand Cricket** during the **2026 virtua
 - [How It Was Built](#how-it-was-built)
 - [Tools & Technologies](#tools--technologies)
 - [Repository Structure](#repository-structure)
-- [My Role](#my-role)
 - [Note on Sharing](#note-on-sharing)
 
 ---
@@ -110,16 +109,6 @@ Social_media_performance_dashboard_NewZealand-/
 │   └── Snowflake Cloud Power BI Architecture.png
 └── README.md
 ```
-
----
-
-## My Role
-
-As **UX/UI lead**, I:
-
-- Created the wireframes and the 1920×1080 canvas design system (sidebar, header, card layouts).
-- Built the report pages, visuals, interactions and mobile layouts in Power BI.
-- Worked with a team of five on the data model, calculations and delivery.
 
 ---
 
